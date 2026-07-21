@@ -4,5 +4,7 @@
 Prueba primer proyecto
 
 ampliamos la descripcion
-'''  bash
-'''
+
+```
+ls -ls
+```
